@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2" version="1.1" creator="http://ridewithgps.com/">
 <metadata>
-    <name>ЦАРЬ_ГРЕЙДЕР</name>
+    <name>ЦАРЬ_ГРЕЙДЕР (1)</name>
     <author>
         <name>gpx.studio</name>
         <link href="https://gpx.studio"></link>
@@ -11,38 +11,8 @@
     <name>ЦАРЬ ГРЕЙДЕР</name>
     <type>Cycling</type>
     <trkseg>
-    <trkpt lat="58.61599" lon="30.63786">
-        <ele>59.0</ele>
-    </trkpt>
-    <trkpt lat="58.61572" lon="30.63769">
-        <ele>59.0</ele>
-    </trkpt>
-    <trkpt lat="58.61521" lon="30.63717">
-        <ele>58.7</ele>
-    </trkpt>
-    <trkpt lat="58.6147" lon="30.63664">
-        <ele>58.0</ele>
-    </trkpt>
-    <trkpt lat="58.61431" lon="30.63597">
-        <ele>58.7</ele>
-    </trkpt>
-    <trkpt lat="58.61376" lon="30.63535">
-        <ele>58.5</ele>
-    </trkpt>
-    <trkpt lat="58.61322" lon="30.63473">
-        <ele>57.0</ele>
-    </trkpt>
-    <trkpt lat="58.61257" lon="30.63408">
-        <ele>53.7</ele>
-    </trkpt>
-    <trkpt lat="58.61206" lon="30.63406">
-        <ele>54.0</ele>
-    </trkpt>
-    <trkpt lat="58.61189" lon="30.63391">
-        <ele>53.5</ele>
-    </trkpt>
-    <trkpt lat="58.61185" lon="30.63365">
-        <ele>52.3</ele>
+    <trkpt lat="58.6115" lon="30.63312">
+        <ele>51.2</ele>
     </trkpt>
     <trkpt lat="58.61142" lon="30.63301">
         <ele>51.3</ele>
@@ -143,11 +113,14 @@
     <trkpt lat="58.59548" lon="30.61982">
         <ele>46.5</ele>
     </trkpt>
-    <trkpt lat="58.59499" lon="30.61903">
+    <trkpt lat="58.59512" lon="30.61923">
         <ele>47.0</ele>
     </trkpt>
-    <trkpt lat="58.5945" lon="30.61823">
-        <ele>47.6</ele>
+    <trkpt lat="58.59512" lon="30.61923">
+        <ele>47.0</ele>
+    </trkpt>
+    <trkpt lat="58.59456" lon="30.61834">
+        <ele>47.5</ele>
     </trkpt>
     <trkpt lat="58.59401" lon="30.61744">
         <ele>48.4</ele>
@@ -155,38 +128,35 @@
     <trkpt lat="58.59387" lon="30.61738">
         <ele>48.8</ele>
     </trkpt>
-    <trkpt lat="58.59374" lon="30.61745">
+    <trkpt lat="58.593893" lon="30.616978">
+        <ele>48.9</ele>
+    </trkpt>
+    <trkpt lat="58.593789" lon="30.616873">
+        <ele>49.2</ele>
+    </trkpt>
+    <trkpt lat="58.593631" lon="30.616465">
+        <ele>49.8</ele>
+    </trkpt>
+    <trkpt lat="58.593497" lon="30.61593">
+        <ele>50.2</ele>
+    </trkpt>
+    <trkpt lat="58.593164" lon="30.614829">
+        <ele>50.8</ele>
+    </trkpt>
+    <trkpt lat="58.593164" lon="30.614829">
+        <ele>50.8</ele>
+    </trkpt>
+    <trkpt lat="58.592566" lon="30.612989">
+        <ele>49.9</ele>
+    </trkpt>
+    <trkpt lat="58.592566" lon="30.612989">
+        <ele>49.9</ele>
+    </trkpt>
+    <trkpt lat="58.591573" lon="30.610708">
         <ele>49.1</ele>
     </trkpt>
-    <trkpt lat="58.59333" lon="30.61808">
-        <ele>49.3</ele>
-    </trkpt>
-    <trkpt lat="58.59292" lon="30.61871">
-        <ele>49.0</ele>
-    </trkpt>
-    <trkpt lat="58.59278" lon="30.61871">
-        <ele>49.0</ele>
-    </trkpt>
-    <trkpt lat="58.59265" lon="30.61855">
-        <ele>49.0</ele>
-    </trkpt>
-    <trkpt lat="58.59224" lon="30.61731">
-        <ele>50.5</ele>
-    </trkpt>
-    <trkpt lat="58.59182" lon="30.61607">
-        <ele>51.7</ele>
-    </trkpt>
-    <trkpt lat="58.5914" lon="30.61483">
-        <ele>51.7</ele>
-    </trkpt>
-    <trkpt lat="58.59179" lon="30.61368">
-        <ele>51.9</ele>
-    </trkpt>
-    <trkpt lat="58.59167" lon="30.61328">
-        <ele>51.9</ele>
-    </trkpt>
-    <trkpt lat="58.5913" lon="30.61272">
-        <ele>51.6</ele>
+    <trkpt lat="58.591573" lon="30.610708">
+        <ele>49.1</ele>
     </trkpt>
     <trkpt lat="58.59094" lon="30.61216">
         <ele>51.9</ele>
